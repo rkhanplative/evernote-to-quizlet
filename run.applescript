@@ -1,0 +1,1 @@
+do shell script "~/Desktop/python-apps/evernote-quizlet-generator/setenv.sh"

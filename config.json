@@ -1,0 +1,4 @@
+{
+    "prompt":"Here are my notes taken from my lecture \n```{text}```\n. Generate {num_flashcards}  question/answer pairs. The should be a comma in between question and answer, and a 3 newline-characters between each pair, and NO list numbering. These questions and answers should be solely on the content covered in the lecture, and should be complex questions of a graduate student’s level. \nQuestion and Answer Pairs:\n",
+    "num_flashcards":50
+}
